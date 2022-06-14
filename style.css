@@ -1,5 +1,6 @@
 .titulo {
     text-align: center;
+    
 
 }
 
@@ -86,4 +87,6 @@ p {
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     box-sizing:border-box;
+    color: white;
+
 }
