@@ -1,0 +1,26 @@
+html, body, div, ul, li{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: 'IBM Plex Sans', sans-serif;
+    vertical-align: baseline;
+}
+body {
+    line-height: 1;
+}
+ ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
